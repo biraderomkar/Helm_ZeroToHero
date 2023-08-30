@@ -1,7 +1,7 @@
 Pre-requisites:
- 1. k8s cluster: 
+ 1. Setup local k8s cluster using kind: 
  ```sh
-            create using kind create cluster --name helmtutorial
+          kind create cluster --name helmtutorial
   ```
  2. kubectl cli:
        # Installation docx
